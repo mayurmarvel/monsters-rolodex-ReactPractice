@@ -2,3 +2,6 @@
 
 Modified Dogs Version 🐾
 Link : https://monsters-rolodex-react.vercel.app/
+
+Standard Monster Version 👻
+Link :https://monsters-rolodex-react-bunfo8t06-mayurmarvel.vercel.app/
